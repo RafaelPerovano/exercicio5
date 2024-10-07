@@ -1,0 +1,27 @@
+#nome{
+    text-align: center;
+    color: hotpink;
+}
+#foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+li:hover{
+    background-color: gray;
+}
+p{
+    font-family: Verdana;
+}
+ol{
+    list-style-type: upper-alpha;
+}
+#descricao{
+    background-color: #ADD8E6;
+}
+.minhadiv{
+    text-align: center;
+    border: dashed;
+    background-color: rgb(219, 219, 219);
+    color: black;
+}
